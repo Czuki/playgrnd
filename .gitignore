@@ -133,3 +133,4 @@ dmypy.json
 **/__pycache__
 *.md
 *.json
+.idea/
