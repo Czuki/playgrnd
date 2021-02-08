@@ -131,4 +131,5 @@ dmypy.json
 *.test.py
 *_test.py
 **/__pycache__
-
+*.md
+*.json
